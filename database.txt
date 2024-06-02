@@ -1,0 +1,5 @@
+ 1 kukure 20 1
+ 2 juice 30 2
+ 3 rice 100 3
+ 4 curd 30 1
+ 12 chipkurk 40 2
